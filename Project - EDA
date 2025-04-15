@@ -5,3 +5,5 @@
 -- normally when you start the EDA process you have some idea of what you're looking for
 
 -- with this info we are just going to look around and see what we find!
+
+select * from Customers;
